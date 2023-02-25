@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a, button {
+    margin-right: 10px!important;
+}
+
+.active-link {
+    color: blue;
+    font-weight: 800;
+}
